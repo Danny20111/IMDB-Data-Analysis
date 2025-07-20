@@ -64,7 +64,5 @@ Add ML models for rating prediction
 📬 Contact
 Deepanshu Sahijwani
 📧 deepanshusahijwani@gmail.com
-🌐 GitHub Profile
-
 
 
